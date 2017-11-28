@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="3.1.0-alpha.070dcb3f"></a>
+# [3.1.0-alpha.070dcb3f](https://github.com/KingScooty/lerna-changelog-debug/compare/v3.0.0...v3.1.0-alpha.070dcb3f) (2017-11-28)
+
+
+### Features
+
+* **component-b:** trying out CI publishing ([070dcb3](https://github.com/KingScooty/lerna-changelog-debug/commit/070dcb3))
+
+
+
+
 <a name="3.0.0"></a>
 # [3.0.0](https://github.com/KingScooty/lerna-changelog-debug/compare/v2.0.0...v3.0.0) (2017-11-28)
 

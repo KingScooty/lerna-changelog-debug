@@ -6,6 +6,7 @@
     "bootstrap": "lerna bootstrap",
     "init": "npm install && npm run bootstrap",
     "publish": "lerna publish --conventional-commits",
+    "publish-ci": "lerna publish --conventional-commits --canary",
     "commitizen": "commitizen",
     "commit": "git-cz"
   },
@@ -17,7 +18,7 @@
   },
   "config": {
     "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
+      "path": "./node_modules/cz-lerna-changelog"
     }
   }
 }
