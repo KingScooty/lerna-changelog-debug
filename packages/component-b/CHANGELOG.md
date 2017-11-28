@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="4.0.0"></a>
+# [4.0.0](https://github.com/KingScooty/lerna-changelog-debug/compare/v3.0.0...v4.0.0) (2017-11-28)
+
+
+### Features
+
+* **component-b:** remove loads of logs. Test canary out ([2889037](https://github.com/KingScooty/lerna-changelog-debug/commit/2889037))
+* **component-b:** trying out CI publishing ([070dcb3](https://github.com/KingScooty/lerna-changelog-debug/commit/070dcb3))
+
+
+### BREAKING CHANGES
+
+* **component-b:** Canary may break semver versions
+
+
+
+
 <a name="3.1.0-alpha.070dcb3f"></a>
 # [3.1.0-alpha.070dcb3f](https://github.com/KingScooty/lerna-changelog-debug/compare/v3.0.0...v3.1.0-alpha.070dcb3f) (2017-11-28)
 
