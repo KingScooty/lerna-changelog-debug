@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="4.1.0"></a>
+# [4.1.0](https://github.com/KingScooty/lerna-changelog-debug/compare/v4.0.0...v4.1.0) (2017-11-28)
+
+
+### Features
+
+* **component-b:** testing canary when non breaking changes are in ([73bf39e](https://github.com/KingScooty/lerna-changelog-debug/commit/73bf39e))
+
+
+
+
 <a name="4.0.0"></a>
 # [4.0.0](https://github.com/KingScooty/lerna-changelog-debug/compare/v3.0.0...v4.0.0) (2017-11-28)
 
