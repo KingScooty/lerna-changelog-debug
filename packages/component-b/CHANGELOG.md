@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="1.2.0"></a>
+# [1.2.0](https://github.com/KingScooty/lerna-changelog-debug/compare/v1.1.3...v1.2.0) (2017-11-28)
+
+
+### Features
+
+* **component-b:** trying out a feature with lerna changelog ([46b2b90](https://github.com/KingScooty/lerna-changelog-debug/commit/46b2b90))
+
+
+
+
 <a name="1.1.3"></a>
 ## [1.1.3](https://github.com/KingScooty/lerna-changelog-debug/compare/v1.1.2...v1.1.3) (2017-11-28)
 
