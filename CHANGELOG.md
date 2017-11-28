@@ -3,6 +3,8 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+**Note:** Version bump only for package lerna-changelog
+
 <a name="4.1.0"></a>
 # [4.1.0](https://github.com/KingScooty/lerna-changelog-debug/compare/v4.0.0...v4.1.0) (2017-11-28)
 

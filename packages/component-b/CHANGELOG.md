@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="4.2.0-alpha.04a5869c"></a>
+# [4.2.0-alpha.04a5869c](https://github.com/KingScooty/lerna-changelog-debug/compare/v4.1.0...v4.2.0-alpha.04a5869c) (2017-11-28)
+
+
+### Features
+
+* **component-b:** more breaking canary changes ([04a5869](https://github.com/KingScooty/lerna-changelog-debug/commit/04a5869))
+
+
+### BREAKING CHANGES
+
+* **component-b:** Canary and breaking changes
+
+
+
+
 <a name="4.1.0"></a>
 # [4.1.0](https://github.com/KingScooty/lerna-changelog-debug/compare/v4.0.0...v4.1.0) (2017-11-28)
 
