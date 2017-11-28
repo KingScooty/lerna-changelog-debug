@@ -3,7 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-**Note:** Version bump only for package lerna-changelog
+<a name="5.0.0"></a>
+# [5.0.0](https://github.com/KingScooty/lerna-changelog-debug/compare/v4.1.0...v5.0.0) (2017-11-28)
+
+
+### Features
+
+* **component-b:** more breaking canary changes ([04a5869](https://github.com/KingScooty/lerna-changelog-debug/commit/04a5869))
+* **component-b:** testing out --yes ([73215c4](https://github.com/KingScooty/lerna-changelog-debug/commit/73215c4))
+
+
+### BREAKING CHANGES
+
+* **component-b:** Canary and breaking changes
+
+
+
 
 <a name="4.1.0"></a>
 # [4.1.0](https://github.com/KingScooty/lerna-changelog-debug/compare/v4.0.0...v4.1.0) (2017-11-28)

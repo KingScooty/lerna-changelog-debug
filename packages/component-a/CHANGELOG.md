@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="5.0.0"></a>
+# [5.0.0](https://github.com/KingScooty/lerna-changelog-debug/compare/v4.1.0...v5.0.0) (2017-11-28)
+
+
+### Features
+
+* **component-b:** testing out --yes ([73215c4](https://github.com/KingScooty/lerna-changelog-debug/commit/73215c4))
+
+
+
+
 <a name="4.2.0-alpha.04a5869c"></a>
 # [4.2.0-alpha.04a5869c](https://github.com/KingScooty/lerna-changelog-debug/compare/v4.1.0...v4.2.0-alpha.04a5869c) (2017-11-28)
 
