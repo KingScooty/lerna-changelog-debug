@@ -34,4 +34,7 @@ jobs:
           key: v1-dependencies-{{ checksum "package.json" }}
 
       # run tests!
+      #- run: git config --global -l
+      - run: git config user.email circleci@circleci
+      - run: git config user.name CircleCI
       - run: npm run publish-ci
