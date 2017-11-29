@@ -35,6 +35,6 @@ jobs:
 
       # run tests!
       #- run: git config --global -l
-      - run: git config user.email circleci@circleci
-      - run: git config user.name CircleCI
-      - run: npm run publish-ci
+      # - run: git config user.email circleci@circleci
+      # - run: git config user.name CircleCI
+      # - run: npm run publish-ci
