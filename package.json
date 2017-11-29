@@ -5,8 +5,8 @@
     "lerna": "lerna",
     "bootstrap": "lerna bootstrap",
     "init": "npm install && npm run bootstrap",
-    "publish": "lerna publish --conventional-commits",
-    "publish-ci": "lerna publish --conventional-commits --yes",
+    "publish": "lerna publish --conventional-commits --skip-npm",
+    "publish-ci": "lerna exec -- npm publish",
     "commitizen": "commitizen",
     "commit": "git-cz"
   },
